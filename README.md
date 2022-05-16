@@ -1,1 +1,1 @@
-# Programare-orientata-pe-obiecte---c-
+# Programare-orientata-pe-obiecte c++
